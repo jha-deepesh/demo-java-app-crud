@@ -1,0 +1,35 @@
+# Java & Maven
+/target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# Misc
+*.swp
+*.swo
+
+# Node/npm (if any frontend)
+/node_modules/
+
+# VS Code
+.vscode/
+
